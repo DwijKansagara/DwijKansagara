@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="assets/profile-banner.svg" alt="Dwij Kansagara, student developer in Rajkot building web interfaces, browser AI experiments and robotics" width="100%" />
+  <img src="assets/profile-banner.svg" alt="Dwij Kansagara, 10th-standard student developer in Rajkot building web interfaces, browser AI experiments and robotics" width="100%" />
 </div>
 
 <div align="center">
-  <strong>Student developer · Rajkot, Gujarat</strong><br />
+  <strong>10th-standard 10th-standard student developer · Rajkot, Gujarat</strong><br />
   Interfaces, browser AI and physical computing.
 </div>
 
@@ -34,7 +34,7 @@
 
 ## About
 
-I am Dwij Kansagara, a student developer interested in the point where software becomes an experience. I build accessible web interfaces, experiment with camera and voice models in the browser, and learn robotics through practical projects.
+I am Dwij Kansagara, a 10th-standard 10th-standard student developer interested in the point where software becomes an experience. I build accessible web interfaces, experiment with camera and voice models in the browser, and learn robotics through practical projects.
 
 I care about clear controls, honest documentation, responsive performance and details that make an interface feel considered.
 
@@ -67,3 +67,4 @@ I care about clear controls, honest documentation, responsive performance and de
 - Testing projects on real browsers and documenting their limits.
 
 The longer version lives at **[about-me.antideploy.com](https://about-me.antideploy.com)**.
+
