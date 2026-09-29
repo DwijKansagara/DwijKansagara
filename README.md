@@ -42,11 +42,11 @@ I care about clear controls, honest documentation, responsive performance and de
 
 | | Project | Focus | Live signal | Links |
 | --- | --- | --- | --- | --- |
-| <img src="assets/project-web.svg" width="34" alt="" /> | **Portfolio** | React, TypeScript and accessible interaction design | <img src="https://dwij-counts.antideploy.com/badge/portfolio.svg" alt="Portfolio views and likes" width="214" /> | [Live](https://dwij-portfolio.antideploy.com) · [Source](https://github.com/DwijKansagara/Portfolio) |
-| <img src="assets/link-about.svg" width="34" alt="" /> | **About me** | Personal document, work and interests | <img src="https://dwij-counts.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" /> | [Live](https://about-me.antideploy.com) · [Source](https://github.com/DwijKansagara/about-me) |
-| <img src="assets/project-ai.svg" width="34" alt="" /> | **LUMINA AI** | Local camera and voice model experiments | <img src="https://dwij-counts.antideploy.com/badge/lumina.svg" alt="LUMINA views and likes" width="214" /> | [Live](https://lumina.antideploy.com) · [Source](https://github.com/DwijKansagara/LUMINA-AI) |
-| <img src="assets/project-assistant.svg" width="34" alt="" /> | **JARVIS** | Voice and browser assistant with preserved upstream credit | <img src="https://dwij-counts.antideploy.com/badge/jarvis.svg" alt="JARVIS views and likes" width="214" /> | [Live](https://dwij-jarvis.antideploy.com) · [Source](https://github.com/DwijKansagara/JARVIS) |
-| <img src="assets/project-motion.svg" width="34" alt="" /> | **Cinematic study** | Scroll storytelling with Three.js and GSAP | <img src="https://dwij-counts.antideploy.com/badge/doomsday.svg" alt="Doomsday views and likes" width="214" /> | [Live](https://doomsday.antideploy.com) · [Source](https://github.com/DwijKansagara/avengers-doomsday) |
+| <img src="assets/project-web.svg" width="34" alt="" /> | **Portfolio** | React, TypeScript and accessible interaction design | <img src="https://dwij-portfolio.antideploy.com/badge/portfolio.svg" alt="Portfolio views and likes" width="214" /> | [Live](https://dwij-portfolio.antideploy.com) · [Source](https://github.com/DwijKansagara/Portfolio) |
+| <img src="assets/link-about.svg" width="34" alt="" /> | **About me** | Personal document, work and interests | <img src="https://dwij-portfolio.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" /> | [Live](https://about-me.antideploy.com) · [Source](https://github.com/DwijKansagara/about-me) |
+| <img src="assets/project-ai.svg" width="34" alt="" /> | **LUMINA AI** | Local camera and voice model experiments | <img src="https://dwij-portfolio.antideploy.com/badge/lumina.svg" alt="LUMINA views and likes" width="214" /> | [Live](https://lumina.antideploy.com) · [Source](https://github.com/DwijKansagara/LUMINA-AI) |
+| <img src="assets/project-assistant.svg" width="34" alt="" /> | **JARVIS** | Voice and browser assistant with preserved upstream credit | <img src="https://dwij-portfolio.antideploy.com/badge/jarvis.svg" alt="JARVIS views and likes" width="214" /> | [Live](https://dwij-jarvis.antideploy.com) · [Source](https://github.com/DwijKansagara/JARVIS) |
+| <img src="assets/project-motion.svg" width="34" alt="" /> | **Cinematic study** | Scroll storytelling with Three.js and GSAP | <img src="https://dwij-portfolio.antideploy.com/badge/doomsday.svg" alt="Doomsday views and likes" width="214" /> | [Live](https://doomsday.antideploy.com) · [Source](https://github.com/DwijKansagara/avengers-doomsday) |
 
 ## Working with
 
@@ -68,5 +68,6 @@ I care about clear controls, honest documentation, responsive performance and de
 - Testing projects on real browsers and documenting their limits.
 
 The longer version lives at **[about-me.antideploy.com](https://about-me.antideploy.com)**.
+
 
 
