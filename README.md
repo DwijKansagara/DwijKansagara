@@ -42,6 +42,7 @@ I care about clear controls, honest documentation, responsive performance and de
 
 | | Project | Focus | Live signal | Links |
 | --- | --- | --- | --- | --- |
+| <img src="assets/project-assistant.svg" width="34" alt="" /> | **Karbs** | Windows assistant for Codex and Gemini, desktop tools and optional voice; adapted from attributed MIT source | Release details on GitHub | [Website](https://karbs.antideploy.app) · [Source](https://github.com/DwijKansagara/Karbs) |
 | <img src="assets/project-web.svg" width="34" alt="" /> | **Portfolio** | React, TypeScript and accessible interaction design | <img src="https://dwij-portfolio.antideploy.com/badge/portfolio.svg" alt="Portfolio views and likes" width="214" /> | [Live](https://dwij-portfolio.antideploy.com) · [Source](https://github.com/DwijKansagara/Portfolio) |
 | <img src="assets/link-about.svg" width="34" alt="" /> | **About me** | Personal document, work and interests | <img src="https://dwij-portfolio.antideploy.com/badge/about.svg" alt="About Me views and likes" width="214" /> | [Live](https://about-me.antideploy.com) · [Source](https://github.com/DwijKansagara/about-me) |
 | <img src="assets/project-ai.svg" width="34" alt="" /> | **LUMINA AI** | Local camera and voice model experiments | <img src="https://dwij-portfolio.antideploy.com/badge/lumina.svg" alt="LUMINA views and likes" width="214" /> | [Live](https://lumina.antideploy.com) · [Source](https://github.com/DwijKansagara/LUMINA-AI) |
