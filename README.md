@@ -23,7 +23,7 @@
   <tr>
     <td><img src="assets/link-contact.svg" width="38" alt="" /></td>
     <td><strong>Email</strong><br /><sub>Project and development conversations</sub></td>
-    <td><a href="mailto:kansagara.dwij@gmail.com">Write to me</a></td>
+    <td><a href="mailto:work.dwijkansagara@gmail.com">Write to me</a></td>
   </tr>
   <tr>
     <td><img src="assets/link-instagram.svg" width="38" alt="" /></td>
