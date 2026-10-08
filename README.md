@@ -70,5 +70,9 @@ I care about clear controls, honest documentation, responsive performance and de
 
 The longer version lives at **[about-me.antideploy.com](https://about-me.antideploy.com)**.
 
+## Explore and support the work
+
+Every featured repository links to a working demo, source, documentation and issue tracker. If a project is genuinely useful to you, starring that repository helps GitHub surface it to more developers. Reproducible bug reports and accessibility feedback are especially welcome.
+
 
 
